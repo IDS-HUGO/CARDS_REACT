@@ -1,0 +1,7 @@
+#cards_img{
+    border-radius: 50%;
+    width: 12%;
+    border: 1px solid gray;
+    object-fit: cover; 
+    overflow: hidden;
+}
